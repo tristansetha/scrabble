@@ -9,7 +9,7 @@
 ## Description
 **_This is a simple game of scrabble._**
 
-** Specifications **
+## Specifications 
 |   Behavior                          | Input Example | Output Example |
 | ------------------------------------|:-------------:| :-------------:|
 | User enters in an English alphabetic string  | Apple | n/a               |
