@@ -25,20 +25,17 @@
 
 
 ## Instructions
-mcs Project.cs Models/Scrabble.cs; mono Project.exe
+mcs Project.cs Models/ScrabbleScorer.cs; mono Project.exe
 
 ## Technologies Used
-* _HTML_
-* _CSS(Bootstrap)_
+* _Mono_
+* _C#_
 * _ATOM_
-* _JS_
-* _JQuery_
-* _Paint.net_
 * _Git_
-* _Bing_
+
 
 ## License
 
 **
 
-Copyright (c) 2019 **_Theary Im_** **_Mark Strickland_** **_Kenny Halim_** **_Tristan Setha_**
+Copyright (c) 2019 **_Mark Strickland_** **_Tristan Setha_**
