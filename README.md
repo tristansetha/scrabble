@@ -25,7 +25,10 @@
 
 
 ## Instructions
-mcs Project.cs Models/ScrabbleScorer.cs; mono Project.exe
+```
+mcs Scrabble.cs Models/ScrabbleScorer.cs; 
+mono Scrabble.exe
+```
 
 ## Technologies Used
 * _Mono_
